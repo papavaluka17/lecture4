@@ -11,6 +11,7 @@
 .paragraph{
 	color: #000000;
 	fron-size: 16px;
+	text-indent: 30px;
 }
 
 .center{
@@ -113,6 +114,7 @@ vertical-align: middle;
 
 .h3-fonts{
 	font-family: "BPG Nino Mtavruli", sans-serif;
+	letter-spacing: 2px;
 }
 
 .p-fonts{
@@ -126,3 +128,4 @@ vertical-align: middle;
 .index-p{
 	font-family: 'Roboto', sans-serif;
 }
+
