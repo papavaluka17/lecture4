@@ -7,3 +7,16 @@
          url('../fonts/bpg-arial-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/bpg-arial-caps-webfont.svg#bpg_arial_capsregular') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+    font-family: 'Source Sans 3';
+    src: url('SourceSans3-MediumItalic.eot');
+    src: url('SourceSans3-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('SourceSans3-MediumItalic.woff2') format('woff2'),
+        url('SourceSans3-MediumItalic.woff') format('woff'),
+        url('SourceSans3-MediumItalic.ttf') format('truetype'),
+        url('SourceSans3-MediumItalic.svg#SourceSans3-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
